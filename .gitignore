@@ -1,0 +1,14 @@
+**/*pyc
+**/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/*/*/scripts
+paddlecloud*
+internal*
+*/internal*
+.DS_Store
+*/.DS_Store
+
+# Local GEM pretrained checkpoints
+apps/pretrained_compound/ChemRL/GEM/pretrain_models-chemrl_gem.tgz
+apps/pretrained_compound/ChemRL/GEM/pretrain_models-chemrl_gem/
