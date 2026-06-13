@@ -1,0 +1,2 @@
+paper,variant,finetune_strategy,scope,task_alias,num_tasks,trainable,total,trainable_formatted,total_formatted,trainable_over_total,status,notes
+GEM,GeoGNN/GEM,FT,"ChemVL Table A scaffold, representative task bbbp",bbbp,1,107073,107073,107.07K,107.07K,107.07K / 107.07K,OK,source=model.parameters(); geognn_l8/down_mlp2; full fine-tuning
